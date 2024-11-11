@@ -1,0 +1,9 @@
+Description:
+This project involves analyzing a dataset with 11,251 rows containing customer details and purchase information. After performing data cleaning, exploratory data analysis (EDA) was conducted to understand customer behavior and spending patterns. Key analyses include:
+
+Gender Distribution & Spending Patterns
+Spending by Age Group
+Customer Count by State & Marital Status
+Amount Spent by Marital Status
+Customer Count by Occupation & Product Category
+The visualizations provide insights into how different demographic factors influence purchasing behavior.
