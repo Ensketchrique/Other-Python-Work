@@ -1,0 +1,11 @@
+Overview
+This project provides a data-driven exploration of hourly weather data, covering attributes like temperature, humidity, and visibility conditions. 
+Using Pandas and NumPy, the analysis reveals patterns, statistical metrics, and relationships within weather conditions without visualizations.
+
+Key Analysis
+Condition-Based Filters: Identify occurrences of "Clear" weather, low wind speeds, visibility thresholds, and snowfall.
+Statistical Metrics: Calculate mean visibility, pressure standard deviation, and humidity variance.
+Group-Based Insights: Determine minimum, maximum, and average values across each weather category.
+Requirements
+Python libraries: pandas and numpy
+This project demonstrates valuable techniques for weather data analysis and data wrangling using Python.
